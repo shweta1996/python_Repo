@@ -1,1 +1,10 @@
-print("Hello world")
+num=500
+print(type(num))
+print(num)
+name="Ram"
+print(name)
+salary=float(10000)
+print(salary)
+num1=50
+print(num1)
+print(type(num1))
